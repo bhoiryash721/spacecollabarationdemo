@@ -4,7 +4,7 @@
 // ============================================================
 require_once __DIR__ . '/includes/db.php';
 require_once __DIR__ . '/includes/auth.php';
-requireLogin();
+requireLogin();   
 
 $userId   = $_SESSION['user_id'];
 $userName = $_SESSION['user_name'];
