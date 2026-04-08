@@ -9,7 +9,7 @@
 :root {
   --bg-deep:    #020409;
   --bg-card:    #0a0f1e;
-  --bg-glass:   rgba(10,15,40,0.7);
+  --bg-glass:   rgba(10,15,40,0.7);       
   --bg-hover:   rgba(255,255,255,0.04);
   --border:     rgba(99,179,237,0.15);
   --border-glow:rgba(99,179,237,0.4);
