@@ -177,3 +177,31 @@ Open your browser: `http://localhost/spacecollab/`
 - **OAuth**: Add Google login with a library like `league/oauth2-client`
 - **Image resizing**: Add GD/Imagick thumbnail generation on upload
 - **Full-text search**: Switch to MySQL FULLTEXT indexes for better search
+
+## 🎓 About the Developer
+
+This project has been developed as part of academic learning and practical implementation.
+
+Student Name: Yash Bhoir, Manushree Chikane , Arshad Kondkari
+College Name: Pillai College Of Engineering
+Course: BTech In Computer Engineering
+Year: Second Year
+🏫 About the College
+
+Pillai College of Enginnering is a reputed institution focused on providing quality education and fostering innovation among students.
+This project reflects the practical skills and knowledge gained during the academic journey.
+
+📌 Project Context
+
+This project was created as part of college coursework to enhance understanding of:
+
+Full Stack Development
+Database Management
+Real-world Application Building
+Team Collaboration (if applicable)
+
+💡 Acknowledgment
+I would like to express my sincere gratitude to:
+Principal of Pillai College of Engineering for providing a supportive academic environment.
+Head of Department (HOD) for continuous guidance and encouragement.
+Faculty Members Prof Neha Ashok Maa'm and Prof Nishan Shankar sir for their valuable insights and mentorship throughout this project.
