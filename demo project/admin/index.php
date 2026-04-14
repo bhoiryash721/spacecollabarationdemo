@@ -15,7 +15,6 @@ $weeklyStats = [];
 $stmt = $pdo->prepare('SELECT COUNT(*) FROM users WHERE created_at >= DATE_SUB(NOW(), INTERVAL 7 DAY)');
 $stmt->execute();
 $weeklyStats['new_users'] = (int)$stmt->fetchColumn();
-
 $stmt = $pdo->prepare('SELECT COUNT(*) FROM experiments WHERE created_at >= DATE_SUB(NOW(), INTERVAL 7 DAY)');
 $stmt->execute();
 $weeklyStats['new_experiments'] = (int)$stmt->fetchColumn();
