@@ -2,7 +2,6 @@
 // ============================================================
 // includes/auth.php — Session helpers & access control
 // ============================================================
-
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
